@@ -1,0 +1,29 @@
+{
+  "name": "issue-tracker-app",
+  "version": "1.0.0",
+  "description": "Issue Tracker Full Stack Application",
+  "main": "index.js",
+  "scripts": {
+    "// Note: The install:all script is useful for initial setup": "",
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "// Script to run the backend server using nodemon": "",
+    "dev:server": "npm run dev --prefix server",
+    "// Script to run the frontend dev server (Vite)": "",
+    "dev:client": "npm run dev --prefix client",
+    "// Script using concurrently to run both client and server dev scripts": "",
+    "dev": "concurrently \"npm:dev:server\" \"npm:dev:client\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "node",
+    "postgres",
+    "issue-tracker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2" 
+  }
+}
