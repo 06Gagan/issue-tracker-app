@@ -51,6 +51,7 @@ Ensure the following software is installed on your system:
 ### Installation
 
 1.  **Clone the repository:**
+    ```bash
     git clone <https://github.com/06Gagan/issue-tracker-app.git>
     cd issue-tracker-app
     ```
