@@ -51,9 +51,7 @@ Ensure the following software is installed on your system:
 ### Installation
 
 1.  **Clone the repository:**
-    Replace `<your-repository-url>` with the actual URL of your repository.
-    ```bash
-    git clone <your-repository-url>
+    git clone <https://github.com/06Gagan/issue-tracker-app.git>
     cd issue-tracker-app
     ```
 
