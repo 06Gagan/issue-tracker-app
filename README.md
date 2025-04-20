@@ -135,7 +135,7 @@ Ensure the following software is installed on your system:
 ![Create Form Screenshot](./client/public/Screenshots/CreateNewIssue.png)
 
 **Issue Detail View:**
-![Detail View Screenshot](./client/public/Screenshots/issueDetailView.png)
+![Detail View Screenshot](./client/public/Screenshots/iusseDetailView.png)
 
 **Edit Issue Form:**
 ![Edit Form Screenshot](./client/public/Screenshots/editIssue.png)
