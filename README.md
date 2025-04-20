@@ -6,7 +6,6 @@ A full-stack web application for managing software issues or bugs, featuring Cre
 
 This application provides a user interface to view a list of issues, see detailed information for a specific issue, create new issues, and edit or delete existing ones. The goal is to offer a simple yet effective tool for tracking project tasks or software bugs.
 
-## Screenshots
 
 ## Tech Stack
 
@@ -130,22 +129,22 @@ Ensure the following software is installed on your system:
 ## Screenshots
 
 **Dashboard View:**
-![Dashboard Screenshot](./docs/images/dashboard.png)
+![Dashboard Screenshot](./client/public/Screenshots/dashboardView.png)
 
 **Create Issue Form:**
-![Create Form Screenshot](./docs/images/create_form.png)
+![Create Form Screenshot](./client/public/Screenshots/CreateNewIssue.png)
 
 **Issue Detail View:**
-![Detail View Screenshot](./docs/images/detail_view.png)
+![Detail View Screenshot](./client/public/Screenshots/issueDetailView.png)
 
 **Edit Issue Form:**
-![Edit Form Screenshot](./docs/images/edit_form.png)
+![Edit Form Screenshot](./client/public/Screenshots/editIssue.png)
 
 **Delete Confirmation:**
-![Delete Confirmation Screenshot](./docs/images/delete_modal.png)
+![Delete Confirmation Screenshot](./client/public/Screenshots/deleteConfirmation.png)
 
 **Dashboard - Sorting Active:**
-![Sorting Screenshot](./docs/images/dashboard_sorted.png)
+![Sorting Screenshot](./client/public/Screenshots/SortingIssue.png)
 
 **Dashboard - Filtering Active:**
-![Filtering Screenshot](./docs/images/dashboard_filtered.png)
+![Filtering Screenshot](./client/public/Screenshots/filtertionIssue.png)
